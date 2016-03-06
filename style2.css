@@ -1,0 +1,18 @@
+body{
+    font-size:30px;
+  background-image:url("http://previews.123rf.com/images/tigatelu/tigatelu1307/tigatelu130700191/20897442-Chef-cartoon-holding-a-metal-food-platter-and-thumb-up--Stock-Vector.jpg");
+  background-repeat:no-repeat;
+   background-size:1300px 750px;
+  padding:100px;
+  color:green;
+}
+
+h1{
+  
+  color:red;
+  
+ }
+ 
+ audio { 
+   display:none;
+}

@@ -1,0 +1,40 @@
+body{
+    font-size:20px;
+  background-image:url("http://urbanturbankanata.ca/ut/wp-content/uploads/2013/12/banner-2.jpg");
+  padding:50px;
+  font-color:red;
+  
+   border-color: maroon;
+  border-width: .25em;
+  border-style: double;
+  
+}
+
+h1{
+  font-size:50px;
+  color:blue;
+ }
+
+h3{
+  font-size:30px;
+  color:cyan;
+  padding:10px;
+  
+}
+
+a{
+  font-size:20px;
+  color:red;
+  padding:10px;
+  
+}
+
+footer {
+    display: block;
+    color:orange;
+ }
+ 
+ audio { 
+   display:none;
+}
+
